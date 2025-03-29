@@ -335,7 +335,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Werebear-Walk_0: 1174558886763162764
+      Werebear-Walk_1: -2315910674107863661
+      Werebear-Walk_2: 7851576139567609997
+      Werebear-Walk_3: 3573424864928659217
+      Werebear-Walk_4: 9144904747891988722
+      Werebear-Walk_5: 162461327072422033
+      Werebear-Walk_6: 4995179990573881708
+      Werebear-Walk_7: 9052491454244285660
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

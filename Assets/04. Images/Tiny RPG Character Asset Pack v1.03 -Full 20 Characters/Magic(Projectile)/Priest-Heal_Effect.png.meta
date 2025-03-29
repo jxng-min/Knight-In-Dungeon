@@ -560,7 +560,24 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Priest-Heal_Effect_0: -6197755139779019286
+      Priest-Heal_Effect_1: -5031161062581326714
+      Priest-Heal_Effect_10: -1455484577530855846
+      Priest-Heal_Effect_11: -1162296498074530752
+      Priest-Heal_Effect_12: -7227755159443424823
+      Priest-Heal_Effect_13: -6897133713497717933
+      Priest-Heal_Effect_14: 8404887669987712180
+      Priest-Heal_Effect_15: 2543218905189861746
+      Priest-Heal_Effect_16: -3359079624707302184
+      Priest-Heal_Effect_2: 7819748324588695830
+      Priest-Heal_Effect_3: -8013310635977354599
+      Priest-Heal_Effect_4: 2623963041376859063
+      Priest-Heal_Effect_5: 1968276072906730021
+      Priest-Heal_Effect_6: 440626769743037711
+      Priest-Heal_Effect_7: -3195689108640271083
+      Priest-Heal_Effect_8: 7944663458944531829
+      Priest-Heal_Effect_9: -1049501849413730225
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

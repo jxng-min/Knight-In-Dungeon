@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Armored Skeleton-Shadow_death_0: 8299056195946585580
+      Armored Skeleton-Shadow_death_1: -5240053361231768925
+      Armored Skeleton-Shadow_death_2: 4115216427145047368
+      Armored Skeleton-Shadow_death_3: 8347653793149783279
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

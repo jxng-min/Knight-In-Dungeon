@@ -285,7 +285,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Knight Templar-Idle_0: 941554769194238170
+      Knight Templar-Idle_1: -247596938127160141
+      Knight Templar-Idle_2: 2066704445689668507
+      Knight Templar-Idle_3: -4408495441092696903
+      Knight Templar-Idle_4: 2450011350353437236
+      Knight Templar-Idle_5: -8802226675324666870
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

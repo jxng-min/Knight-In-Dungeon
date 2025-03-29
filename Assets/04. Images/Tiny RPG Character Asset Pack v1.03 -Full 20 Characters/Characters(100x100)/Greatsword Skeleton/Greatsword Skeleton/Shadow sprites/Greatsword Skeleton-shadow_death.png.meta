@@ -310,7 +310,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Greatsword Skeleton-shadow_death_0: -2782315546712103166
+      Greatsword Skeleton-shadow_death_1: -729225026454503930
+      Greatsword Skeleton-shadow_death_2: -5558785757780306723
+      Greatsword Skeleton-shadow_death_3: -8241717645019386143
+      Greatsword Skeleton-shadow_death_4: -5817224394733443803
+      Greatsword Skeleton-shadow_death_5: 7203995367593167100
+      Greatsword Skeleton-shadow_death_6: -2493407699238754110
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

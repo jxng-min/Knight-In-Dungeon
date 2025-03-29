@@ -285,7 +285,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Armored Skeleton-Idle_0: 5525993030540068286
+      Armored Skeleton-Idle_1: -8663772317979389850
+      Armored Skeleton-Idle_2: 5784295752593638801
+      Armored Skeleton-Idle_3: 4055723317896046259
+      Armored Skeleton-Idle_4: -2108201621661663137
+      Armored Skeleton-Idle_5: -3822943416461383560
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Greatsword Skeleton-Hurt_0: -5434886915366224955
+      Greatsword Skeleton-Hurt_1: -792997478938449193
+      Greatsword Skeleton-Hurt_2: -4230229324995577902
+      Greatsword Skeleton-Hurt_3: 5564234373426952547
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

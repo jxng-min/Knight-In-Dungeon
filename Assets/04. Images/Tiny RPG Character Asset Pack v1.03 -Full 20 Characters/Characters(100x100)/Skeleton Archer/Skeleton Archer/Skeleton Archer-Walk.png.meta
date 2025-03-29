@@ -335,7 +335,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Skeleton Archer-Walk_0: 3529585072740049112
+      Skeleton Archer-Walk_1: 1552569696712542236
+      Skeleton Archer-Walk_2: 4004280702128150363
+      Skeleton Archer-Walk_3: -2672155573072289348
+      Skeleton Archer-Walk_4: -5095432870617726702
+      Skeleton Archer-Walk_5: 487595970675031006
+      Skeleton Archer-Walk_6: -6304041728307141930
+      Skeleton Archer-Walk_7: -3530639821347134945
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

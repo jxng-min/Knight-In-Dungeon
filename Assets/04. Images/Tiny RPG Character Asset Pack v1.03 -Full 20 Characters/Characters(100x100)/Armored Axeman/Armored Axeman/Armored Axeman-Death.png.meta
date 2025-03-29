@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Armored Axeman-Death_0: -5647273814162473583
+      Armored Axeman-Death_1: -5686533212938127592
+      Armored Axeman-Death_2: -7335285643953167389
+      Armored Axeman-Death_3: -7197852377435898774
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

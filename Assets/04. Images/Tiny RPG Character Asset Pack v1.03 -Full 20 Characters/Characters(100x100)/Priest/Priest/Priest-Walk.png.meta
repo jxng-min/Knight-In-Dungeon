@@ -335,7 +335,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Priest-Walk_0: 2627294696224789840
+      Priest-Walk_1: -7512213230153046130
+      Priest-Walk_2: 830883647339762077
+      Priest-Walk_3: -5092062182813528432
+      Priest-Walk_4: 724282607026121063
+      Priest-Walk_5: -3025515330137168691
+      Priest-Walk_6: -7772827946506075600
+      Priest-Walk_7: 6891665544650684598
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

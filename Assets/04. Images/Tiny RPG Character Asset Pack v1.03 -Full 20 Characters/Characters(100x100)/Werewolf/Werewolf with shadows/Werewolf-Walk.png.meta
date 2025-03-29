@@ -335,7 +335,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Werewolf-Walk_0: -3701199581462768929
+      Werewolf-Walk_1: -7547501532470485945
+      Werewolf-Walk_2: -4216219597229827858
+      Werewolf-Walk_3: 5448589304762213395
+      Werewolf-Walk_4: 1915964264584243621
+      Werewolf-Walk_5: 5799248973064564117
+      Werewolf-Walk_6: -7661666850059498734
+      Werewolf-Walk_7: -6517846222131938427
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

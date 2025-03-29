@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Orc-shadow_death_0: -5771478684454141434
+      Orc-shadow_death_1: -1324071862299577995
+      Orc-shadow_death_2: -1580776445174962102
+      Orc-shadow_death_3: 6097641245615169911
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

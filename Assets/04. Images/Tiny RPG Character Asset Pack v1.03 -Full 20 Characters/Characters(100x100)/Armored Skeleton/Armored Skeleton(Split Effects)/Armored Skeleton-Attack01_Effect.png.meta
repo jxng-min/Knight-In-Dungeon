@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Armored Skeleton-Attack01_Effect_0: -4334913010199845234
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

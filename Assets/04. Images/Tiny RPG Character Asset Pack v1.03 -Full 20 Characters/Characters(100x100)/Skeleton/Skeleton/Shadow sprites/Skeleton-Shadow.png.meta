@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Skeleton-Shadow_0: 9207002757264188136
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

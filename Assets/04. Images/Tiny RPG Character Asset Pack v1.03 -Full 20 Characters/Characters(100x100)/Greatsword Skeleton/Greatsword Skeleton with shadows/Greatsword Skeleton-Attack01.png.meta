@@ -460,7 +460,20 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Greatsword Skeleton-Attack01_0: 7881636254453835088
+      Greatsword Skeleton-Attack01_1: -1631881828347064051
+      Greatsword Skeleton-Attack01_10: -5726752351180808526
+      Greatsword Skeleton-Attack01_11: -1023333723961177070
+      Greatsword Skeleton-Attack01_12: -2787909867786435534
+      Greatsword Skeleton-Attack01_2: -4611766818821873706
+      Greatsword Skeleton-Attack01_3: 855817368589333103
+      Greatsword Skeleton-Attack01_4: 2897670997321020363
+      Greatsword Skeleton-Attack01_5: 7729692832100995362
+      Greatsword Skeleton-Attack01_6: -3858469907709892544
+      Greatsword Skeleton-Attack01_7: 5526180451339060890
+      Greatsword Skeleton-Attack01_8: -8537884622452727334
+      Greatsword Skeleton-Attack01_9: -3190358235929026143
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

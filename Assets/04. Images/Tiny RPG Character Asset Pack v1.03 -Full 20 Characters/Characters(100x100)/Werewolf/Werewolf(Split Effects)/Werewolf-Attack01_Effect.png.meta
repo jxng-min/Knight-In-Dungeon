@@ -185,7 +185,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Werewolf-Attack01_Effect_0: 9142429986046745838
+      Werewolf-Attack01_Effect_1: -2042775751103110788
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

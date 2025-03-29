@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Werewolf-shadow_death_0: 1089698015233481710
+      Werewolf-shadow_death_1: 6774020559870389042
+      Werewolf-shadow_death_2: -2761956358989132166
+      Werewolf-shadow_death_3: -8543270661406520275
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

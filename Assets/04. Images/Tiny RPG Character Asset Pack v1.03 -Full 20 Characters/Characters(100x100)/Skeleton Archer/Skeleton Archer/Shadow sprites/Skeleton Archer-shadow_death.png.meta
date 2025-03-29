@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Skeleton Archer-shadow_death_0: -916468750779451046
+      Skeleton Archer-shadow_death_1: 7193699653241268050
+      Skeleton Archer-shadow_death_2: -6309278273757111048
+      Skeleton Archer-shadow_death_3: -6184276140901133152
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

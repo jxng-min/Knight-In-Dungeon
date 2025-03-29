@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Werebear-Hurt_0: -1468992467970853836
+      Werebear-Hurt_1: 2866616238435076535
+      Werebear-Hurt_2: -2766649211370415354
+      Werebear-Hurt_3: -2035263668343403277
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

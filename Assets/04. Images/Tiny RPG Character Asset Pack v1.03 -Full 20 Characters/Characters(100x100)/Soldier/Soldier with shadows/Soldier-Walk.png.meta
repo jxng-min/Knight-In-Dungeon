@@ -335,7 +335,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Soldier-Walk_0: -6369722787752497797
+      Soldier-Walk_1: -4195647796165820189
+      Soldier-Walk_2: -8464097173789389841
+      Soldier-Walk_3: 4675039378008736925
+      Soldier-Walk_4: 8618280867664089372
+      Soldier-Walk_5: 1914519734761289132
+      Soldier-Walk_6: -7471997188321437821
+      Soldier-Walk_7: -1920940785554729860
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

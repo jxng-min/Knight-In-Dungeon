@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Werebear-shadow_death_0: -4966745416826071929
+      Werebear-shadow_death_1: -1027725252900476720
+      Werebear-shadow_death_2: 5970687406961397649
+      Werebear-shadow_death_3: -5032698646969778463
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

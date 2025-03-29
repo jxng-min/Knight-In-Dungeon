@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Greatsword Skeleton-Death_0: -4222526896889955097
+      Greatsword Skeleton-Death_1: 4393376024448038942
+      Greatsword Skeleton-Death_2: 920515366748413151
+      Greatsword Skeleton-Death_3: -8539569735243652497
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

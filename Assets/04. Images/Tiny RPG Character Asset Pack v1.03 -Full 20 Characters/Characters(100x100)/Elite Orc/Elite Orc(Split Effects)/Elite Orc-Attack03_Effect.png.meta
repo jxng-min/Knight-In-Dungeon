@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Elite Orc-Attack03_Effect_0: -8620324008830440320
+      Elite Orc-Attack03_Effect_1: 1617686557873743684
+      Elite Orc-Attack03_Effect_2: 5133760967351601021
+      Elite Orc-Attack03_Effect_3: -8806256699191699970
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

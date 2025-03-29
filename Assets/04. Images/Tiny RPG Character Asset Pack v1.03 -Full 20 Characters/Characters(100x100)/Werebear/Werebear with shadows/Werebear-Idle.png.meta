@@ -285,7 +285,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Werebear-Idle_0: -5004526510767300680
+      Werebear-Idle_1: 3609393883403515724
+      Werebear-Idle_2: 1387893624940018059
+      Werebear-Idle_3: 5336546409777294913
+      Werebear-Idle_4: -1768686267006753101
+      Werebear-Idle_5: -2699804691739733528
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

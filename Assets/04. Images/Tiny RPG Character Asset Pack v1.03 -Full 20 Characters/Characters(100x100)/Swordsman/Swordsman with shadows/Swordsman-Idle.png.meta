@@ -285,7 +285,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Swordsman-Idle_0: 5692671443236587484
+      Swordsman-Idle_1: -7132607124198789229
+      Swordsman-Idle_2: 1745013774301411547
+      Swordsman-Idle_3: -3124490933595188275
+      Swordsman-Idle_4: -2865239502139090261
+      Swordsman-Idle_5: -6313096847297114484
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

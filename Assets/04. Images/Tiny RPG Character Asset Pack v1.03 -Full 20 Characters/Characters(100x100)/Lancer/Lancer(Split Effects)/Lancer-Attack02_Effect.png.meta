@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Lancer-Attack02_Effect_0: 4775564416610628741
+      Lancer-Attack02_Effect_1: 221092405631414335
+      Lancer-Attack02_Effect_2: 7294753378183727124
+      Lancer-Attack02_Effect_3: -1536563076465697665
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -285,7 +285,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Priest-Heal_0: 938037435119971776
+      Priest-Heal_1: 8672285291793718111
+      Priest-Heal_2: 3547073599913624731
+      Priest-Heal_3: 476566816292920638
+      Priest-Heal_4: 2353106724279924450
+      Priest-Heal_5: 7740503576319098228
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

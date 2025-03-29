@@ -310,7 +310,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Orc rider-Attack03_Effect_0: -8183893360560221331
+      Orc rider-Attack03_Effect_1: 975634201051247158
+      Orc rider-Attack03_Effect_2: -8891431625275508289
+      Orc rider-Attack03_Effect_3: -4677087159207218387
+      Orc rider-Attack03_Effect_4: 453433752809908893
+      Orc rider-Attack03_Effect_5: 1527360234304331240
+      Orc rider-Attack03_Effect_6: -4318694671449767240
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

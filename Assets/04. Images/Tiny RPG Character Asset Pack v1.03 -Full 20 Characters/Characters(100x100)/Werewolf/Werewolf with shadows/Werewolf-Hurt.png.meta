@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Werewolf-Hurt_0: -6768064800231839112
+      Werewolf-Hurt_1: -4463229762502221854
+      Werewolf-Hurt_2: 2161038538726658031
+      Werewolf-Hurt_3: 1091462072994205310
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

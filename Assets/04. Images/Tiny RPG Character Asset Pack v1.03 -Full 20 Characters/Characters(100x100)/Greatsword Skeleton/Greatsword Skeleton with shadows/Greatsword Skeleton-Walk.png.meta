@@ -360,7 +360,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Greatsword Skeleton-Walk_0: -7459603669500001941
+      Greatsword Skeleton-Walk_1: 6166366046247683660
+      Greatsword Skeleton-Walk_2: 3137527998565041634
+      Greatsword Skeleton-Walk_3: 7628613798529611405
+      Greatsword Skeleton-Walk_4: 9211441226706313983
+      Greatsword Skeleton-Walk_5: -4387257990158484384
+      Greatsword Skeleton-Walk_6: 4897232894672810715
+      Greatsword Skeleton-Walk_7: 770206704810081102
+      Greatsword Skeleton-Walk_8: -1877230367031352636
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

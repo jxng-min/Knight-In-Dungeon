@@ -285,7 +285,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Slime-Shadow_walk_0: -9112592865685281419
+      Slime-Shadow_walk_1: -5077062241487957705
+      Slime-Shadow_walk_2: 6698127560326834702
+      Slime-Shadow_walk_3: 923308767017840910
+      Slime-Shadow_walk_4: 7934149391209444796
+      Slime-Shadow_walk_5: 814620874232908391
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

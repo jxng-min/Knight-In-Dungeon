@@ -485,7 +485,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Werewolf-Attack02_0: 2690253717885054663
+      Werewolf-Attack02_1: 2924794905738231760
+      Werewolf-Attack02_10: 3334470025854700738
+      Werewolf-Attack02_11: -4594368018287875547
+      Werewolf-Attack02_12: 504143092588132386
+      Werewolf-Attack02_13: 8484711412906736825
+      Werewolf-Attack02_2: 5370983336735051837
+      Werewolf-Attack02_3: 1693071357061835176
+      Werewolf-Attack02_4: 9114445085233884029
+      Werewolf-Attack02_5: 316850838564518087
+      Werewolf-Attack02_6: 8488122073083714517
+      Werewolf-Attack02_7: 5990893648162083703
+      Werewolf-Attack02_8: 3716714184619309036
+      Werewolf-Attack02_9: 4370016764034053994
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

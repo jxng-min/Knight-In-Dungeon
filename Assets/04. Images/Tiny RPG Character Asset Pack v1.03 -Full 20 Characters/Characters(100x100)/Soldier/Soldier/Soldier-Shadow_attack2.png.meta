@@ -285,7 +285,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Soldier-Shadow_attack2_0: 2261135143969369812
+      Soldier-Shadow_attack2_1: 191840939740295888
+      Soldier-Shadow_attack2_2: 9144558672366216909
+      Soldier-Shadow_attack2_3: -2368509944092420301
+      Soldier-Shadow_attack2_4: -5127053160540000551
+      Soldier-Shadow_attack2_5: -822343735328164323
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

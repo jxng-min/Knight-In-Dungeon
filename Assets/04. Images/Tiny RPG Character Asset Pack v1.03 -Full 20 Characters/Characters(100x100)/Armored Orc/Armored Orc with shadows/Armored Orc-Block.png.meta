@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Armored Orc-Block_0: 4494031353197613516
+      Armored Orc-Block_1: 3846532588926970564
+      Armored Orc-Block_2: -2343218912374127521
+      Armored Orc-Block_3: -418636457547415079
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Werebear-Attack02_Effect_0: 1381395985399513091
+      Werebear-Attack02_Effect_1: 9218812492270588113
+      Werebear-Attack02_Effect_10: 4674184471038103911
+      Werebear-Attack02_Effect_11: -1482849376730418387
+      Werebear-Attack02_Effect_2: 723878099119303989
+      Werebear-Attack02_Effect_3: -1397917573409607696
+      Werebear-Attack02_Effect_4: 6291625885833608126
+      Werebear-Attack02_Effect_5: 9000466818631745738
+      Werebear-Attack02_Effect_6: 4421168982448503783
+      Werebear-Attack02_Effect_7: -4795317552589609755
+      Werebear-Attack02_Effect_8: 8594787195627555382
+      Werebear-Attack02_Effect_9: -6428325703545833304
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

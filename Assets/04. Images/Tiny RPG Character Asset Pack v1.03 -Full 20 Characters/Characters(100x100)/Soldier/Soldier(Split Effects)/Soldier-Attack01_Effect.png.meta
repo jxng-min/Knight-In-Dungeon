@@ -185,7 +185,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Soldier-Attack01_Effect_0: 9066030749163298722
+      Soldier-Attack01_Effect_1: -8522829898002315717
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

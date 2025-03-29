@@ -385,7 +385,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Elite Orc-Death_0: 5065144218681336704
+      Elite Orc-Death_1: -5670242377288045739
+      Elite Orc-Death_2: -4654832131575144583
+      Elite Orc-Death_3: -5478488178943842799
+      Elite Orc-Death_4: 2273375966953105404
+      Elite Orc-Death_5: 2103512864479474475
+      Elite Orc-Death_6: -3271702645377274501
+      Elite Orc-Death_7: -2505603481434339115
+      Elite Orc-Death_8: 6013396189072918827
+      Elite Orc-Death_9: -73974980488251999
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

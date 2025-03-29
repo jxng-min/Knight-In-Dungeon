@@ -285,7 +285,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Elite Orc-Idle_0: -342681156859825065
+      Elite Orc-Idle_1: 7182427136695681639
+      Elite Orc-Idle_2: 6334135343093763509
+      Elite Orc-Idle_3: -5707147415922792925
+      Elite Orc-Idle_4: 7825238181998469949
+      Elite Orc-Idle_5: -5040612050824081324
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

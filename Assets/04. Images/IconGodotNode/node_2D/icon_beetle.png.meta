@@ -185,7 +185,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      icon_beetle_0: 9113588948753975597
+      icon_beetle_1: -261209054667894839
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

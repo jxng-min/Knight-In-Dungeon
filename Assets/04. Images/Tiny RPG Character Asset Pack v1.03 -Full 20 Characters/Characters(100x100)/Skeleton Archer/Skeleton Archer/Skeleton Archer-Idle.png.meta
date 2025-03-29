@@ -285,7 +285,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Skeleton Archer-Idle_0: -6351682907161248583
+      Skeleton Archer-Idle_1: -4127314927421442097
+      Skeleton Archer-Idle_2: -1263314696073233438
+      Skeleton Archer-Idle_3: 8246794367857864967
+      Skeleton Archer-Idle_4: 8991973509969698036
+      Skeleton Archer-Idle_5: -3371768663152145846
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

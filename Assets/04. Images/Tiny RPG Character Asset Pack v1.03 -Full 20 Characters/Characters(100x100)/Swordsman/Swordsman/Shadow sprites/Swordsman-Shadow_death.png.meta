@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Swordsman-Shadow_death_0: 7474474266234205608
+      Swordsman-Shadow_death_1: -8324815326063204912
+      Swordsman-Shadow_death_2: 4498013826447069304
+      Swordsman-Shadow_death_3: -6477586249182806797
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Knight-Hurt_0: -6683126255077902358
+      Knight-Hurt_1: 1902744039177482756
+      Knight-Hurt_2: -4285594652000648524
+      Knight-Hurt_3: 2228037736886391974
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

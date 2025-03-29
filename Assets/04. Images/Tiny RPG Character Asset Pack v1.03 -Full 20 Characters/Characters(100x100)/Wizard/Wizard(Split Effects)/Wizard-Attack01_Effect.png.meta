@@ -660,7 +660,28 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Wizard-Attack01_Effect_0: 4094687308210522735
+      Wizard-Attack01_Effect_1: 7128090428000047356
+      Wizard-Attack01_Effect_10: -2901441114228980077
+      Wizard-Attack01_Effect_11: 4065732217682077196
+      Wizard-Attack01_Effect_12: 7189568701202213725
+      Wizard-Attack01_Effect_13: 4884670746828552744
+      Wizard-Attack01_Effect_14: 8678201598172443613
+      Wizard-Attack01_Effect_15: 6865969526139227110
+      Wizard-Attack01_Effect_16: -9185694782637610364
+      Wizard-Attack01_Effect_17: -6444520095646117762
+      Wizard-Attack01_Effect_18: -1150482162877051964
+      Wizard-Attack01_Effect_19: -6219407221357014672
+      Wizard-Attack01_Effect_2: 986007802613593804
+      Wizard-Attack01_Effect_20: -1777301292437369655
+      Wizard-Attack01_Effect_3: 199603279528187482
+      Wizard-Attack01_Effect_4: 4341716690748768127
+      Wizard-Attack01_Effect_5: 6689210453614961675
+      Wizard-Attack01_Effect_6: 2129611894538584534
+      Wizard-Attack01_Effect_7: 1690141461030085444
+      Wizard-Attack01_Effect_8: 354115466445533105
+      Wizard-Attack01_Effect_9: 5357172379561557894
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

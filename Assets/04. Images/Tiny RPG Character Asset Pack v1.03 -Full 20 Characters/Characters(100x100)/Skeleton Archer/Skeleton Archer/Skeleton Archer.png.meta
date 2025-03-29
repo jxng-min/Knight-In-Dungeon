@@ -910,7 +910,38 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Skeleton Archer_0: 9041428293049349298
+      Skeleton Archer_1: -4380395442116883477
+      Skeleton Archer_10: -3027578767052263893
+      Skeleton Archer_11: -6648658619560189120
+      Skeleton Archer_12: -299745397649099360
+      Skeleton Archer_13: -750603287271599899
+      Skeleton Archer_14: -6795648134928363421
+      Skeleton Archer_15: -4329730991075478572
+      Skeleton Archer_16: 3977455351867784764
+      Skeleton Archer_17: 7978075994827919519
+      Skeleton Archer_18: 2749513095324179971
+      Skeleton Archer_19: -5712056027737332698
+      Skeleton Archer_2: 7560103259539671564
+      Skeleton Archer_20: -5239485470827961068
+      Skeleton Archer_21: 6197777595430061296
+      Skeleton Archer_22: -2331110289770293316
+      Skeleton Archer_23: 3676245012572826915
+      Skeleton Archer_24: 2238367692061038173
+      Skeleton Archer_25: 5989468758836457693
+      Skeleton Archer_26: -2210163378026519788
+      Skeleton Archer_27: 5977689647618046692
+      Skeleton Archer_28: -8499718716145215785
+      Skeleton Archer_29: 9187740814162231990
+      Skeleton Archer_3: 5119210036477043158
+      Skeleton Archer_30: -6317421438834435695
+      Skeleton Archer_4: -214303571471306492
+      Skeleton Archer_5: 3211899172010773745
+      Skeleton Archer_6: 1812775362372528153
+      Skeleton Archer_7: 9152419027779209382
+      Skeleton Archer_8: 7460921127087972172
+      Skeleton Archer_9: 5466824719054380301
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

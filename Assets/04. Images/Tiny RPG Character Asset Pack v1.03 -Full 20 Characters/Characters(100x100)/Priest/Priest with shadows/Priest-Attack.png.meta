@@ -360,7 +360,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Priest-Attack_0: 5676570727890599230
+      Priest-Attack_1: -6068918265463017956
+      Priest-Attack_2: -8606378345297777850
+      Priest-Attack_3: 8831787588189308223
+      Priest-Attack_4: 2711787253964969823
+      Priest-Attack_5: -7587274378061202753
+      Priest-Attack_6: 1534053651835070504
+      Priest-Attack_7: 3812934661563700412
+      Priest-Attack_8: -5713001813351952471
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

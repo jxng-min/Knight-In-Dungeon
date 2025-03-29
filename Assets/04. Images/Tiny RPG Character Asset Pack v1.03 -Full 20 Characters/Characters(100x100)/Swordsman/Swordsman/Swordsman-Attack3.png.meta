@@ -485,7 +485,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Swordsman-Attack3_0: -2334287042289308074
+      Swordsman-Attack3_1: -4768643496490000954
+      Swordsman-Attack3_10: 279028875897683420
+      Swordsman-Attack3_11: -4384314109133796856
+      Swordsman-Attack3_12: -3559155355613522531
+      Swordsman-Attack3_13: 7137716256341456059
+      Swordsman-Attack3_2: -3036041988664606002
+      Swordsman-Attack3_3: -3113387665142515047
+      Swordsman-Attack3_4: 2254026791774940097
+      Swordsman-Attack3_5: 5062854778077338082
+      Swordsman-Attack3_6: 5901158471496574031
+      Swordsman-Attack3_7: 9011895088099317282
+      Swordsman-Attack3_8: 8002066306026379112
+      Swordsman-Attack3_9: 3418668161383354886
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

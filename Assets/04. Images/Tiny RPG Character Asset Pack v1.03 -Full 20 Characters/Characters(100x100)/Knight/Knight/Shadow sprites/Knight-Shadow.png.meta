@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Knight-Shadow_0: 7643137831928241581
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -185,7 +185,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Slime-Attack02_Effect_0: 233485526879740831
+      Slime-Attack02_Effect_1: 2343164354460393337
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

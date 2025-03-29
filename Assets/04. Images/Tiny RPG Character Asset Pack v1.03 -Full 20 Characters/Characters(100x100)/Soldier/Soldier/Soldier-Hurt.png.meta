@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Soldier-Hurt_0: 2394668732000811328
+      Soldier-Hurt_1: 2011182554591317053
+      Soldier-Hurt_2: 7915317491827125556
+      Soldier-Hurt_3: -6471843385825578902
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

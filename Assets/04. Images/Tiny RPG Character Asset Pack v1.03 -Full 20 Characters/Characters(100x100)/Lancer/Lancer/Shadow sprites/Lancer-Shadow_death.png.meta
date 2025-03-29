@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Lancer-Shadow_death_0: -1153509578363939158
+      Lancer-Shadow_death_1: 5914114611052725014
+      Lancer-Shadow_death_2: 2371311890085148225
+      Lancer-Shadow_death_3: -6457843490224907191
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

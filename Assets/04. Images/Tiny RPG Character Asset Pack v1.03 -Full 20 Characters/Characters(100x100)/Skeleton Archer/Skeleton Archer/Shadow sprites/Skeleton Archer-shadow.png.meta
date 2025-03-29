@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Skeleton Archer-shadow_0: 3932055857184336591
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Lancer-Hurt_0: 4369529162484460312
+      Lancer-Hurt_1: -3983379045308087518
+      Lancer-Hurt_2: 2145962790020042710
+      Lancer-Hurt_3: 4338387806517535974
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
