@@ -66,13 +66,13 @@ public class SkillSelector : MonoBehaviour
     {
         Initialize();
 
-        if(CheckAllSlotsAreFull() is false)
+        if (CheckAllSlotsAreFull() is false)
         {
             if(CheckActiveSlotsAreFull())
             {
                 SetRandomSlotsExceptNonSelectActive();
             }
-            else if(CheckPassiveSlotsAreFull())
+            else if (CheckPassiveSlotsAreFull())
             {
                 SetRandomSlotsExceptNonSelectPassive();
             }
@@ -85,13 +85,13 @@ public class SkillSelector : MonoBehaviour
         {
             if(CheckAllSlotsAreMax() is false)
             {
-                if(CheckAnySkillsAreMax() is false)
+                if (CheckAnySkillsAreMax() is false)
                 {
                     SetNarrowRandomSkills();
                 }
                 else
                 {
-                    if(CheckCantSelectThree() is false)
+                    if (CheckCantSelectThree() is false)
                     {
                         SetMoreNarrowRandomSlots();
                     }
@@ -362,11 +362,11 @@ public class SkillSelector : MonoBehaviour
 
     private bool CheckAllSlotsAreMax()
     {
-        foreach(SkillSlot slot in ActiveSkillSlots)
+        foreach (SkillSlot slot in ActiveSkillSlots)
         {
-            foreach(SkillSelectSlot select_slot in m_skill_select_slots)
+            foreach (SkillSelectSlot select_slot in m_skill_select_slots)
             {
-                if(slot.Skill.m_id == select_slot.Skill.ID)
+                if (slot.Skill.m_id == select_slot.Skill.ID)
                 {
                     if(select_slot.Base.Level < 5)
                     {
@@ -393,7 +393,7 @@ public class SkillSelector : MonoBehaviour
             }
         }
 
-        foreach(SkillSlot slot in PassiveSkillSlots)
+        foreach (SkillSlot slot in PassiveSkillSlots)
         {
             foreach(SkillSelectSlot select_slot in m_skill_select_slots)
             {
@@ -447,7 +447,7 @@ public class SkillSelector : MonoBehaviour
                             is_checked = true;
                         }
                     }
-                    
+     
                     if(!is_checked)
                     {
                         return true;
@@ -478,7 +478,7 @@ public class SkillSelector : MonoBehaviour
 
         foreach(SkillSelectSlot select_slot in m_skill_select_slots)
         {
-            foreach(SkillSlot slot in ActiveSkillSlots)
+            foreach (SkillSlot slot in ActiveSkillSlots)
             {
                 bool is_checked = false;
                 if(slot.Skill.m_id == select_slot.Skill.ID)
@@ -502,7 +502,7 @@ public class SkillSelector : MonoBehaviour
                 }
             }
 
-            foreach(SkillSlot slot in PassiveSkillSlots)
+            foreach (SkillSlot slot in PassiveSkillSlots)
             {
                 if(slot.Skill.m_id == select_slot.Skill.ID)
                 {
@@ -709,7 +709,7 @@ public class SkillSelector : MonoBehaviour
 
         foreach(SkillSelectSlot select_slot in m_skill_select_slots)
         {
-            foreach(SkillSlot slot in ActiveSkillSlots)
+            foreach (SkillSlot slot in ActiveSkillSlots)
             {
                 bool is_checked = false;
                 if(slot.Skill.m_id == select_slot.Skill.ID)
@@ -733,7 +733,7 @@ public class SkillSelector : MonoBehaviour
                 }
             }
 
-            foreach(SkillSlot slot in PassiveSkillSlots)
+            foreach (SkillSlot slot in PassiveSkillSlots)
             {
                 if(slot.Skill.m_id == select_slot.Skill.ID)
                 {
@@ -795,7 +795,7 @@ public class SkillSelector : MonoBehaviour
 
         foreach(SkillSelectSlot select_slot in m_skill_select_slots)
         {
-            foreach(SkillSlot slot in ActiveSkillSlots)
+            foreach (SkillSlot slot in ActiveSkillSlots)
             {
                 bool is_checked = false;
                 if(slot.Skill.m_id == select_slot.Skill.ID)
@@ -819,7 +819,7 @@ public class SkillSelector : MonoBehaviour
                 }
             }
 
-            foreach(SkillSlot slot in PassiveSkillSlots)
+            foreach (SkillSlot slot in PassiveSkillSlots)
             {
                 if(slot.Skill.m_id == select_slot.Skill.ID)
                 {

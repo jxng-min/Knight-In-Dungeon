@@ -116,14 +116,31 @@ public class TileRepositionManager : MonoBehaviour
             }
         }
     }
+    private int m_prev_center_x = 0;
 
     private void RepositionTiles_Horizontal(int center_x)
     {
-        for (int i = 0; i < 3; i++)
+        if (center_x > m_prev_center_x)
         {
-            int offset_x = i - 1; // -1, 0, 1
-            Vector3 pos = new Vector3((center_x + offset_x) * m_stage2_tile_size, 8, 0);
-            m_tiles[i].position = pos;
+            Transform left_tile = m_tiles[0];
+            m_tiles[0] = m_tiles[1];
+            m_tiles[1] = m_tiles[2];
+            m_tiles[2] = left_tile;
+
+            int new_x = center_x + 1;
+            m_tiles[2].position = new Vector3(new_x * m_stage2_tile_size, 8, 0);
         }
+        else if (center_x < m_prev_center_x)
+        {
+            Transform right_tile = m_tiles[2];
+            m_tiles[2] = m_tiles[1];
+            m_tiles[1] = m_tiles[0];
+            m_tiles[0] = right_tile;
+
+            int new_x = center_x - 1;
+            m_tiles[0].position = new Vector3(new_x * m_stage2_tile_size, 8, 0);
+        }
+
+        m_prev_center_x = center_x;
     }
 }
