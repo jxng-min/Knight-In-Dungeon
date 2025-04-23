@@ -17,5 +17,5 @@ MonoBehaviour:
   m_atk_damage: 10
   m_bullet_size: 1
   m_move_speed: 2
-  m_exp_bonus_ratio: 1
+  m_exp_bonus_ratio: 10
   m_cool_down_decrease_ratio: 1

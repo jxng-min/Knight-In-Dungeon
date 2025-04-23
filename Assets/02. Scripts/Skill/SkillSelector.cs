@@ -68,52 +68,41 @@ public class SkillSelector : MonoBehaviour
 
         if (CheckAllSlotsAreFull() is false)
         {
-            Debug.Log("진입1");
-            if (CheckActiveSlotsAreFull())
+            if(CheckActiveSlotsAreFull())
             {
-                Debug.Log("진입2");
                 SetRandomSlotsExceptNonSelectActive();
             }
             else if (CheckPassiveSlotsAreFull())
             {
-                Debug.Log("진입3");
                 SetRandomSlotsExceptNonSelectPassive();
             }
             else
             {
-                Debug.Log("진입4");
                 SetRandomSkills();
             }
         }
         else
         {
-            Debug.Log("진입5");
-            if (CheckAllSlotsAreMax() is false)
+            if(CheckAllSlotsAreMax() is false)
             {
-                Debug.Log("진입6");
                 if (CheckAnySkillsAreMax() is false)
                 {
-                    Debug.Log("진입7");
                     SetNarrowRandomSkills();
                 }
                 else
                 {
-                    Debug.Log("진입8");
                     if (CheckCantSelectThree() is false)
                     {
-                        Debug.Log("진입9");
                         SetMoreNarrowRandomSlots();
                     }
                     else
                     {
-                        Debug.Log("진입10");
                         SetNarrowSlots();
                     }
                 }
             }
             else
             {
-                Debug.Log("진입11");
                 GameManager.Instance.Player.UpdateHP(GameManager.Instance.Player.OriginStat.HP);
                 CloseUI();
             }
@@ -379,23 +368,23 @@ public class SkillSelector : MonoBehaviour
             {
                 if (slot.Skill.m_id == select_slot.Skill.ID)
                 {
-                    if (select_slot.Base.Level < 5)
+                    if(select_slot.Base.Level < 5)
                     {
                         return false;
                     }
-                    else if (select_slot.Base.Level == 5)
+                    else if(select_slot.Base.Level == 5)
                     {
                         bool is_checked = false;
-                        foreach (SkillSlot passive_slot in PassiveSkillSlots)
+                        foreach(SkillSlot passive_slot in PassiveSkillSlots)
                         {
-                            if (select_slot.Skill.Combination.ID == passive_slot.Skill.m_id)
+                            if(select_slot.Skill.Combination.ID == passive_slot.Skill.m_id)
                             {
                                 is_checked = true;
                                 break;
                             }
                         }
 
-                        if (is_checked)
+                        if(is_checked)
                         {
                             return false;
                         }
@@ -448,23 +437,24 @@ public class SkillSelector : MonoBehaviour
         {
             if(select_slot.Skill.Type == SkillType.Active)
             {
-                if (select_slot.Base.Level == 5)
+                if(select_slot.Base.Level == 5)
                 {
                     bool is_checked = false;
-                    foreach (SkillSlot slot in PassiveSkillSlots)
+                    foreach(SkillSlot slot in PassiveSkillSlots)
                     {
-                        if (select_slot.Skill.Combination.ID == slot.Skill.m_id)
+                        if(select_slot.Skill.Combination.ID == slot.Skill.m_id)
                         {
                             is_checked = true;
                         }
                     }
-
-                    if (!is_checked)
+     
+                    if(!is_checked)
                     {
                         return true;
                     }
                 }
-                if (select_slot.Base.Level >= 6)
+
+                if(select_slot.Base.Level >= 6)
                 {
                     return true;
                 }
@@ -491,21 +481,21 @@ public class SkillSelector : MonoBehaviour
             foreach (SkillSlot slot in ActiveSkillSlots)
             {
                 bool is_checked = false;
-                if (slot.Skill.m_id == select_slot.Skill.ID)
+                if(slot.Skill.m_id == select_slot.Skill.ID)
                 {
-                    if (select_slot.Base.Level == 5)
+                    if(select_slot.Base.Level == 5)
                     {
                         is_checked = true;
-                        foreach (SkillSlot passive_slot in PassiveSkillSlots)
+                        foreach(SkillSlot passive_slot in PassiveSkillSlots)
                         {
-                            if (select_slot.Skill.Combination.ID == passive_slot.Skill.m_id)
+                            if(select_slot.Skill.Combination.ID == passive_slot.Skill.m_id)
                             {
                                 is_checked = false;
                                 break;
-                            }
+                            } 
                         }
                     }
-                    if (is_checked is false)
+                    if(is_checked is false)
                     {
                         m_skill_select_list.Add(select_slot);
                     }
@@ -588,24 +578,25 @@ public class SkillSelector : MonoBehaviour
         {
             if(select_slot.Skill.Type is SkillType.Active)
             {
-                if (select_slot.Base.Level == 5)
+                if(select_slot.Base.Level == 5)
                 {
                     bool is_checked = false;
-                    foreach (SkillSlot slot in PassiveSkillSlots)
+                    foreach(SkillSlot slot in PassiveSkillSlots)
                     {
-                        if (select_slot.Skill.Combination.ID == slot.Skill.m_id)
+                        if(select_slot.Skill.Combination.ID == slot.Skill.m_id)
                         {
                             is_checked = true;
                             break;
                         }
                     }
 
-                    if (!is_checked)
+                    if(!is_checked)
                     {
                         max_level_count++;
                     }
                 }
-                if (select_slot.Base.Level >= 6)
+
+                if(select_slot.Base.Level >= 6)
                 {
                     max_level_count++;
                 }
@@ -721,21 +712,21 @@ public class SkillSelector : MonoBehaviour
             foreach (SkillSlot slot in ActiveSkillSlots)
             {
                 bool is_checked = false;
-                if (slot.Skill.m_id == select_slot.Skill.ID)
+                if(slot.Skill.m_id == select_slot.Skill.ID)
                 {
-                    if (select_slot.Base.Level == 5)
+                    if(select_slot.Base.Level == 5)
                     {
                         is_checked = true;
-                        foreach (SkillSlot passive_slot in PassiveSkillSlots)
+                        foreach(SkillSlot passive_slot in PassiveSkillSlots)
                         {
-                            if (select_slot.Skill.Combination.ID == passive_slot.Skill.m_id)
+                            if(select_slot.Skill.Combination.ID == passive_slot.Skill.m_id)
                             {
                                 is_checked = false;
                                 break;
-                            }
+                            } 
                         }
                     }
-                    if (is_checked is false)
+                    if(is_checked is false)
                     {
                         m_skill_select_list.Add(select_slot);
                     }
@@ -807,21 +798,21 @@ public class SkillSelector : MonoBehaviour
             foreach (SkillSlot slot in ActiveSkillSlots)
             {
                 bool is_checked = false;
-                if (slot.Skill.m_id == select_slot.Skill.ID)
+                if(slot.Skill.m_id == select_slot.Skill.ID)
                 {
-                    if (select_slot.Base.Level == 5)
+                    if(select_slot.Base.Level == 5)
                     {
                         is_checked = true;
-                        foreach (SkillSlot passive_slot in PassiveSkillSlots)
+                        foreach(SkillSlot passive_slot in PassiveSkillSlots)
                         {
-                            if (select_slot.Skill.Combination.ID == passive_slot.Skill.m_id)
+                            if(select_slot.Skill.Combination.ID == passive_slot.Skill.m_id)
                             {
                                 is_checked = false;
                                 break;
-                            }
+                            } 
                         }
                     }
-                    if (is_checked is false)
+                    if(is_checked is false)
                     {
                         m_skill_select_list.Add(select_slot);
                     }
