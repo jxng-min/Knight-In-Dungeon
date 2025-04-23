@@ -98,6 +98,13 @@ AnimationClip:
     floatParameter: 0
     intParameter: 0
     messageOptions: 0
+  - time: 0
+    functionName: SoundPlay
+    data: 
+    objectReferenceParameter: {fileID: 6056641468371740332, guid: f0f7132b7f6774c439f027f8aeb9a3ef, type: 3}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
   - time: 0.16666667
     functionName: ColActive
     data: 

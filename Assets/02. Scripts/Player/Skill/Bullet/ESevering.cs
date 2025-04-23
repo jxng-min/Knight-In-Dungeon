@@ -37,6 +37,30 @@ public class ESevering : Severing
         m_animator.Play(ani_name);
     }
 
+    public void SoundPlay()
+    {
+        string sfx_name = "";
+        switch(m_current_comb_index)
+        {
+            case 0:
+                sfx_name = "ESevering1";
+                break;
+            case 1:
+                sfx_name = "ESevering2";
+                break;
+            case 2:
+                sfx_name = "ESevering3";
+                break;
+            case 3:
+                sfx_name = "ESevering4";
+                break;
+            case 4:
+                sfx_name = "ESevering5";
+                break;
+        }
+        SoundManager.Instance.PlayEffect(sfx_name);
+    }
+
     public override void ColActive()
     {
         if (m_col_index - 1 < 0)
