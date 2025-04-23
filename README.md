@@ -6,9 +6,9 @@
 
 ### 개요
 
-'2pgamearcade' 및 'IndieCraft' 공모전을 위한 게임입니다.
+인디크래프트 공모전 'IndieCraft' 공모전을 위한 게임입니다.
 
-Unity 6를 활용하여 2D Top-Down뷰 멀티플레이 뱀서라이크류 게임을 제작하는 것이 목표입니다.
+Unity 6를 활용하여 2D Top-Down뷰 모바일 뱀서라이크 게임을 제작하는 것이 목표입니다.
 
 <br></br>
 
@@ -19,7 +19,7 @@ Unity 6를 활용하여 2D Top-Down뷰 멀티플레이 뱀서라이크류 게임
 | 게임 명 | 나이트 인 던전(Knight in Dungeon) |
 | 게임 장르| 2D, 뱀서라이크, 캐주얼 |
 | 사용 유니티 버전| Unity 6(6000.0.26f1) |
-| 프로젝트 기간 | 2025.03. ~ 2025.04.14 |
+| 프로젝트 기간 | 2025.03.25 ~ 2025.04.23 |
 
 <br></br>
 
@@ -60,3 +60,6 @@ Unity 6를 활용하여 2D Top-Down뷰 멀티플레이 뱀서라이크류 게임
 * [Explosions - Pixel Art](https://aim-studios.itch.io/explosions-pixel-art)
 * [Shiny treasure icons 16x16](https://opengameart.org/content/shiny-treasure-icons-16x16)
 * [Free Magic Animated Effects Pixel Art](https://free-game-assets.itch.io/free-pixel-magic-sprite-effects-pack)
+* [Holy Spell Effect](https://pimen.itch.io/holy-spell-effect)
+* [Free Axe Icons - Axetober 2024](https://elvgames.itch.io/free-axe-item-icons-axetober-2024)
+* [폭탄이 터지는 소리](https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13220764&menuNo=200020)
