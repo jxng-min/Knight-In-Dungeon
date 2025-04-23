@@ -255,8 +255,10 @@ public class SpawnManager : MonoBehaviour
 
             foreach(Transform tile in m_tile_manager.Tiles)
             {
+                Debug.Log("들어옴");
                 if(tile.GetComponent<BoxCollider2D>().OverlapPoint(current_spawn_pos))
                 {
+                    Debug.Log("걸림");
                     return current_spawn_pos;
                 }
             }

@@ -40,7 +40,8 @@ public class TileRepositionManager : MonoBehaviour
                 }
                 break;
             case 3:
-                Instantiate(m_tile_prefabs[2], Vector3.zero, Quaternion.identity, transform);
+                    GameObject tile_3 = Instantiate(m_tile_prefabs[2], Vector3.zero, Quaternion.identity, transform);
+                    m_tiles.Add(tile_3.transform);
                 break;
             case 4:
                 for (int y = -1; y <= 1; y++)// 스테이지 4 초기 3x3 타일 생성
